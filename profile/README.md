@@ -27,9 +27,9 @@ We build tools, SDKs, and systems that bridge **hardware control, data collectio
   Enable intuitive human-to-robot control pipelines  
   _Teleoperation solution using PICO 4U will be open-sourced soon_  
 
-- 🧠 **AI & Learning Integration**  
+- 🧠 **Physical AI**  
   Support for data collection, imitation learning, and policy training  
-  _AI learning tutorials are currently under development_  
+  _Physical AI tutorials are currently under development_  
 
 - 🧩 **Examples & Tooling**  
   Ready-to-use demos for fast prototyping and research
