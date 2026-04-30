@@ -1,6 +1,6 @@
 # RealHand Inc  
 
-### Dexterous Robotics × Embodied Intelligence  
+### Dexterous Robotics × Physical Intelligence  
 
 RealHand Inc is an open robotics initiative focused on **dexterous robotic hands, manipulation, and embodied AI**.  
 We build tools, SDKs, and systems that bridge **hardware control, data collection, and intelligent robot learning**.
