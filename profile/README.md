@@ -1,4 +1,4 @@
-# RealHand Inc  
+# RealHand Inc.  
 
 ### Dexterous Robotics × Physical Intelligence  
 
