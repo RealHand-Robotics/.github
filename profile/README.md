@@ -53,7 +53,7 @@ We welcome collaboration from researchers, engineers, and industry partners.
 - 🏭 Industry applications and integration  
 - 🛠 Open-source contributions and community building  
 
-If you're interested in working with us, feel free to open an issue or reach out.
+If you're interested in working with us, feel free to open an issue or reach out github@realhand.com .
 
 ---
 
