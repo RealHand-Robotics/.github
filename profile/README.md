@@ -16,7 +16,7 @@ We build tools, SDKs, and systems that bridge **hardware control, data collectio
   Guides, API references, and usage examples  
 
 - 🎮 [XRoboToolkit RealHand Dexterous Hand Example](https://github.com/RealHand-Robotics/XRoboToolkit_Realhand_Dexterous_Hand_Example)
-- XR Teleoperation system that supports PICO 4U headset and ubuntu 22/24 X86 platform. Mujoco simulation supported. Isaac Lab examples are actively updating
+  XR Teleoperation system that supports PICO 4U headset and ubuntu 22/24 X86 platform. Mujoco simulation supported. Isaac Lab examples are actively updating
 
 ## 🚀 What We Provide
 
