@@ -15,7 +15,8 @@ We build tools, SDKs, and systems that bridge **hardware control, data collectio
 - 📘 [Documentation & Examples](https://realhand-robotics.github.io/realbot-python-sdk-document/)  
   Guides, API references, and usage examples  
 
----
+- 🎮 [XRoboToolkit RealHand Dexterous Hand Example](https://github.com/RealHand-Robotics/XRoboToolkit_Realhand_Dexterous_Hand_Example)
+- XR Teleoperation system that supports PICO 4U headset and ubuntu 22/24 X86 platform. Mujoco simulation supported. Isaac Lab examples are actively updating
 
 ## 🚀 What We Provide
 
@@ -24,8 +25,8 @@ We build tools, SDKs, and systems that bridge **hardware control, data collectio
   🔗 [realbot-python-sdk](https://github.com/RealHand-Robotics/realbot-python-sdk)    
 
 - 🎮 **Teleoperation & Interaction**  
-  Enable intuitive human-to-robot control pipelines  
-  _Teleoperation solution using PICO 4U will be open-sourced soon_  
+  Enable intuitive human-to-robot control pipelines  🎮 [XRoboToolkit RealHand Dexterous Hand Example](https://github.com/RealHand-Robotics/XRoboToolkit_Realhand_Dexterous_Hand_Example)
+  _Teleoperation solution using PICO 4U open-sourced ! We support Mujoco simulation. Isaac Lab example will update soon.
 
 - 🧠 **Physical AI**  
   Support for data collection, imitation learning, and policy training  
