@@ -12,8 +12,14 @@ We build tools, SDKs, and systems that bridge **hardware control, data collectio
 - 🔗 [realbot-python-sdk](https://github.com/RealHand-Robotics/realbot-python-sdk)  
   Python SDK for controlling RealHand robotic systems  
 
-- 📘 [Documentation & Examples](https://realhand-robotics.github.io/realbot-python-sdk-document/)  
-  Guides, API references, and usage examples  
+- 🔗 [realbot-ros2-sdk](https://github.com/RealHand-Robotics/realbot-ros2-sdk)  
+  ROS2 SDK for integrating RealHand robotic systems into ROS2 workflows  
+
+- 📘 [Python SDK Documentation & Examples](https://realhand-robotics.github.io/realbot-python-sdk-document/)  
+  Python SDK guides, API references, and usage examples  
+
+- 📘 [ROS2 SDK Documentation & Examples](https://realhand-robotics.github.io/realbot-ros2-sdk-document/)  
+  ROS2 SDK guides, API references, and integration examples  
 
 - 🎮 [XRoboToolkit RealHand Dexterous Hand Example](https://github.com/RealHand-Robotics/XRoboToolkit_Realhand_Dexterous_Hand_Example)
   XR Teleoperation system that supports PICO 4U headset and ubuntu 22/24 X86 platform. Mujoco simulation supported. Isaac Lab examples are actively updating
@@ -21,8 +27,9 @@ We build tools, SDKs, and systems that bridge **hardware control, data collectio
 ## 🚀 What We Provide
 
 - 🤖 **Robotic Hand SDKs**  
-  Python-based interfaces for controlling RealHand systems
-  🔗 [realbot-python-sdk](https://github.com/RealHand-Robotics/realbot-python-sdk)    
+  Python and ROS2 interfaces for controlling and integrating RealHand systems  
+  🔗 [realbot-python-sdk](https://github.com/RealHand-Robotics/realbot-python-sdk)  
+  🔗 [realbot-ros2-sdk](https://github.com/RealHand-Robotics/realbot-ros2-sdk)    
 
 - 🎮 **Teleoperation & Interaction**  
   Enable intuitive human-to-robot control pipelines  🎮 [XRoboToolkit RealHand Dexterous Hand Example](https://github.com/RealHand-Robotics/XRoboToolkit_Realhand_Dexterous_Hand_Example)
@@ -33,8 +40,9 @@ We build tools, SDKs, and systems that bridge **hardware control, data collectio
   _Physical AI tutorials are currently under development_  
 
 - 🧩 **Examples & Tooling**  
-  Ready-to-use demos for fast prototyping and research
-  📘 [Documentation & Examples](https://realhand-robotics.github.io/realbot-python-sdk-document/)  
+  Ready-to-use demos, documentation, and API references for fast prototyping and research  
+  📘 [Python SDK Documentation & Examples](https://realhand-robotics.github.io/realbot-python-sdk-document/)  
+  📘 [ROS2 SDK Documentation & Examples](https://realhand-robotics.github.io/realbot-ros2-sdk-document/)  
 
 ---
 
@@ -61,6 +69,7 @@ If you're interested in working with us, feel free to open an issue or reach out
 ## 🔗 Ecosystem
 
 - SDKs & APIs  
+- ROS2 integration workflows  
 - Robotics hardware integration  
 - AI research workflows  
 - Open-source demos  
