@@ -15,7 +15,7 @@ We build tools, SDKs, and systems that bridge **hardware control, data collectio
 - 🔗 [realbot-ros2-sdk](https://github.com/RealHand-Robotics/realbot-ros2-sdk)  
   ROS2 SDK for integrating RealHand robotic systems into ROS2 workflows
 
-  - 🔗 [Realhand Description](https://github.com/RealHand-Robotics/Realhand_description)  
+- 🔗 [Realhand Description](https://github.com/RealHand-Robotics/Realhand_description)  
   URDF files for Realhand Product  
 
 - 📘 [Python SDK Documentation & Examples](https://realhand-robotics.github.io/realbot-python-sdk-document/)  
